@@ -18,3 +18,4 @@ else:
   triple_2= ((x**2)-1)/2
   triple_3= triple_2 + 1
   print(f"Here it is:\n({int(x)},{triple_2},{triple_3})")
+print("If you'd like to know the math behind it go here:")
